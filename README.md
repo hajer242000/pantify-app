@@ -1,16 +1,30 @@
 # plant_app
 
-A new Flutter project.
 
-## Getting Started
+Pantify 🌿
+Pantify is a Flutter-based plant marketplace app that allows users to browse, order, and track plants, with an integrated AI chat assistant for user support.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+✨ Features
+* 🌱 Browse and explore plants
+* 🛒 Seamless plant ordering experience
+* 📍 Display top sellers on the map using Google Maps API
+* 🤖 AI Chat Assistant for user support and inquiries (powered by n8n)
+* 💳 Payment integration via Amwal
+* 📦 Real-time order tracking
+* ❤️ Wishlist for saving favorite plants
+* 🧾 Export receipts as PDF
+* 🔐 Secure backend powered by Supabase
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+🛠 Tech Stack
+* Flutter (Dart)
+* Supabase (Database & Auth)
+* REST APIs
+* Google Maps API
+* n8n (AI chat automation)
+* Amwal Payment Gateway
+
+🔐 Security Note
+All API keys and sensitive data are excluded from this repository and managed securely using environment variables.
